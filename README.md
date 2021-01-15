@@ -1,1 +1,1 @@
-# rxdb-hasura-project
+Rxdb Hasura Project
